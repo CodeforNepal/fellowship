@@ -1,1 +1,0 @@
-{"ast":null,"code":"export const formUrl = process.env.NEXT_PUBLIC_FORM_URL;","map":null,"metadata":{},"sourceType":"module"}
